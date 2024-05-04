@@ -1,0 +1,13 @@
+<challenges version="1">
+    <challenge 
+    id="5746546"
+    name="Bomberman"
+    playertype ="4"
+    endstage="11"
+    startingitems="5,614,353,646,209,52,727,432,256,106,563,220,366,367"
+    roomfilter="2,4,13,21,24"
+    difficulty="1"
+    megasatan="true"
+    altpath="false"
+    />
+</challenges>
